@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="Questions">
+        <item name="Q1">
+            <array>
+                <item>1.How many overs in cricket T20 format ?~</item>
+                <item>
+                    <array name="Answer_One">
+                        <item>Twenty-</item>
+                        <item>Fifty-</item>
+                        <item>Ninety-</item>
+                        <item>Hundred-</item>
+                    </array>
+                </item>
+            </array>
+        </item>
+        <item name="Q2">
+            <array>
+                <item>2.Who was the winner of Cricket World Cup 2011 ?~</item>
+                <item>
+                    <array name="Answer_Two">
+                        <item>Pakistan-</item>
+                        <item>India-</item>
+                        <item>Australia-</item>
+                        <item>England-</item>
+                    </array>
+                </item>
+            </array>
+        </item>
+        <item name="Q3">
+            <array>
+                <item>3.Who is the inventor of  Doosra ?~</item>
+                <item>
+                    <array name="Answer_Three">
+                        <item>Saqlain Mushtaq-</item>
+                        <item>Shane Warne-</item>
+                        <item>Anil Kumble-</item>
+                        <item>Muttiah Muralitharan-</item>
+                    </array>
+                </item>
+            </array>
+        </item>
+        <item name="Q4">
+            <array>
+                <item>4.Who was the first batsman to score 10,000 runs in Test cricket ?~</item>
+                <item>
+                    <array name="Answer_Four">
+                        <item>Sachin Tendulkar-</item>
+                        <item>Sunil Gavaskar-</item>
+                        <item>Brian Lara-</item>
+                        <item>Steve Waugh-</item>
+                    </array>
+                </item>
+            </array>
+        </item>
+        <item name="Q5">
+            <array>
+                <item>5.Who was the winner of the Ashes 2014 ?~</item>
+                <item>
+                    <array name="Answer_Five">
+                        <item>England-</item>
+                        <item>India-</item>
+                        <item>South Africa-</item>
+                        <item>Australia-</item>
+                    </array>
+                </item>
+            </array>
+        </item>
+        <item name="Q6">
+            <array>
+                <item>6.Which bowler was hit by Yuvraj for six 6s in an over?~</item>
+                <item>
+                    <array name="Answer_Six">
+                        <item>S Broad-</item>
+                        <item>A Flintoff-</item>
+                        <item>S Ajmal-</item>
+                        <item>R Ashwin-</item>
+                    </array>
+                </item>
+            </array>
+        </item>
+        <item name="Q7">
+            <array>
+                <item>7.Which player has scored the fastest century ?~</item>
+                <item>
+                    <array name="Answer_Seven">
+                        <item>Shahid Afridi-</item>
+                        <item>Mark Boucher-</item>
+                        <item>Corey Anderson-</item>
+                        <item>Ab de Villers-</item>
+                    </array>
+                </item>
+            </array>
+        </item>
+        <item name="Q8">
+            <array>
+                <item>8.Who is the most run scorer in World Cup 2015 ?~</item>
+                <item>
+                    <array name="Answer_Eight">
+                        <item>Brenden Mccullum-</item>
+                        <item>Virat Kohli-</item>
+                        <item>Kumar Sangakkara-</item>
+                        <item>Martin Guptill-</item>
+                    </array>
+                </item>
+            </array>
+        </item>
+        <item name="Q9">
+            <array>
+                <item>9.Who bowled the fastest ball in the ODi history ?~</item>
+                <item>
+                    <array name="Answer_Nine">
+                        <item>Shoiab Akhtar-</item>
+                        <item>Brett Lee-</item>
+                        <item>Dale Styne-</item>
+                        <item>Shane Bond-</item>
+                    </array>
+                </item>
+            </array>
+        </item>
+        <item name="Q10">
+            <array>
+                <item>10.Who has the most runs record in the ODI cricket ?~</item>
+                <item>
+                    <array name="Answer_Ten">
+                        <item>Ricky Ponting-</item>
+                        <item>Sachin tendulkar-</item>
+                        <item>Saeed Anwer-</item>
+                        <item>Inzamam ul Haq-</item>
+                    </array>
+                </item>
+            </array>
+        </item>
+    </array>
+    <array name="QuestionOptions">
+        <item>Twenty</item>
+        <item>India</item>
+        <item>Saqlain Mushtaq</item>
+        <item>Sunil Gavaskar</item>
+        <item>Australia</item>
+        <item>S Broad</item>
+        <item>Ab de Villers</item>
+        <item>Martin Guptill</item>
+        <item>Shoiab Akhtar</item>
+        <item>Sachin tendulkar</item>
+    </array>
+
+</resources>

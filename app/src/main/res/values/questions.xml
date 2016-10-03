@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string-array name="Cricket_Question">
+        <item>How many overs in cricket T20 format ?~</item>
+        <item>Who was the winner of Cricket World Cup 2011 ?~</item>
+        <item>Dizzy is the nickname of what Australian player ?~</item>
+    </string-array>
+</resources>

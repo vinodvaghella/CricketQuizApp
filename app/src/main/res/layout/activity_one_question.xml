@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/activity_main"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#00E676"
+    android:orientation="vertical"
+    android:weightSum="100"
+    tools:context="com.example.vinod.cricketquizapp.MainActivity">
+
+
+
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text=""
+            android:textStyle="bold"
+            android:textSize="30sp"
+            android:paddingTop="10dp"
+            android:paddingLeft="8dp"
+            android:paddingRight="8dp"
+            android:paddingBottom="30dp"
+            android:id="@+id/quest_One"/>
+
+        <Button
+            android:layout_width="370dp"
+            android:layout_height="match_parent"
+            android:layout_below="@id/quest_One"
+            android:id="@+id/AnsOne_opt4"
+            android:text=""
+            android:layout_gravity="center"
+            android:textSize="20sp"
+            android:onClick="onClick"
+            android:elevation="0dp"
+            android:textAppearance="@style/TextAppearance.AppCompat.Display2" />
+
+        <Button
+            android:layout_width="370dp"
+            android:layout_height="match_parent"
+            android:layout_below="@id/quest_One"
+            android:id="@+id/AnsOne_opt1"
+            android:text=""
+            android:layout_gravity="center"
+            android:textSize="20sp"
+            android:onClick="onClick"
+            android:elevation="0dp"
+            android:textAppearance="@style/TextAppearance.AppCompat.Display2" />
+
+
+        <Button
+            android:layout_width="370dp"
+            android:layout_height="match_parent"
+            android:layout_below="@id/quest_One"
+            android:id="@+id/AnsOne_opt2"
+            android:text=""
+            android:layout_gravity="center"
+            android:textSize="20sp"
+            android:onClick="onClick"
+            android:elevation="0dp"
+            android:textAppearance="@style/TextAppearance.AppCompat.Display2" />
+
+
+        <Button
+            android:layout_width="370dp"
+            android:layout_height="match_parent"
+            android:layout_below="@id/quest_One"
+            android:id="@+id/AnsOne_opt3"
+            android:layout_gravity="center"
+            android:text=""
+            android:textSize="20sp"
+            android:onClick="onClick"
+            android:elevation="0dp"
+            android:textAppearance="@style/TextAppearance.AppCompat.Display2" />
+
+
+
+    </LinearLayout>
+    </ScrollView>
+
+
